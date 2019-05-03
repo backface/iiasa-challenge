@@ -1,33 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed');
+@import url('https://fonts.googleapis.com/css?family=M+PLUS+Rounded+1c');
+@import url('https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+
 .App {
+  padding-top: 0px;
   text-align: center;
+  font-family: "Roboto", sans-serif;
+  background-color: #f0f0f0;
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
-  pointer-events: none;
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.App  h1 {
+  margin:0;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-bottom: 1px dotted black;
+  margin-bottom: 0px;
+  font-size: 2.3em;
+  text-transform: uppercase;
+  font-family: 'M PLUS Rounded 1c', sans-serif;
+  background-color: #ffffff;
 }
