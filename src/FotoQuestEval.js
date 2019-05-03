@@ -6,7 +6,7 @@ import moment from 'moment'
 
 import "./FotoQuestEval.css";
 
-const BING_API_KEY="Al6mB3j0W2nI7FG1M-ZsCVBnLNE_ywdnPlp45dzw54oCb1gOlhb7kOmHykZI171Q";
+const BING_API_KEY="";
 const SOURCE_URI="https://api.myjson.com/bins/jpfmg"; // /data.json"
 const TARGET_URI="https://demo0929535.mockable.io/evaluate";
 

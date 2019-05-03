@@ -1,9 +1,12 @@
 # FotoQuest Eval Test App
 
-React component and test app for IIASA - EOCS Frontend Challenge
+A prototyped React component and test app for IIASA - EOCS Frontend Challenge
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+Dont't forget to run `npm install`  and set your API KEY for Bing Maps.
+
 
 ## Available Scripts
 
